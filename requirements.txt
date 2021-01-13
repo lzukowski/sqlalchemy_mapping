@@ -1,3 +1,4 @@
 sqlalchemy
 SQLAlchemy_utils
 babel
+factory_boy
